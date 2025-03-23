@@ -20,6 +20,6 @@ thiserror = "1.0.40"
 tokio = { version = "1", features = ["rt-multi-thread"] }
 
 [dev-dependencies]
-solana-program = "1.16.0"
+solana-program = "^1.16"
 
 [workspace]
